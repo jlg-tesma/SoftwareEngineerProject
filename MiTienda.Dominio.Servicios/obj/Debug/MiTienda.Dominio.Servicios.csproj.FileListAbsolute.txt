@@ -1,0 +1,6 @@
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\MiTienda.Dominio.Servicios\bin\Debug\MiTienda.Dominio.Servicios.dll
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\MiTienda.Dominio.Servicios\bin\Debug\MiTienda.Dominio.Servicios.pdb
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\MiTienda.Dominio.Servicios\obj\Debug\MiTienda.Dominio.Servicios.csproj.CoreCompileInputs.cache
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\MiTienda.Dominio.Servicios\obj\Debug\MiTienda.Dominio.Servicios.dll
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\MiTienda.Dominio.Servicios\obj\Debug\MiTienda.Dominio.Servicios.pdb
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\MiTienda.Dominio.Servicios\obj\Debug\MiTienda.Dominio.Servicios.csproj.AssemblyReference.cache

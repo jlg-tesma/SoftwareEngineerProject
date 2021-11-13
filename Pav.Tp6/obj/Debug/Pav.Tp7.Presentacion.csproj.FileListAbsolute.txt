@@ -1,0 +1,47 @@
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.Presentacion.exe.config
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.Presentacion.exe
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.Presentacion.pdb
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\EntityFramework.dll
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.AccesoDatos.dll
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.Dominio.dll
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.AccesoDatos.pdb
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.AccesoDatos.dll.config
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.Dominio.pdb
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\Pav.Tp7.Dominio.dll.config
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\EntityFramework.xml
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.Properties.Resources.resources
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Vistas.VistaListaProductos.resources
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Vistas.VistaPrincipal.resources
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Vistas.VistaProducto.resources
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.GenerateResource.cache
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.CopyComplete
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.exe
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.pdb
+D:\UTN\Programacion de Aplicaciones Visuales\TP7\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.AssemblyReference.cache
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\Pav.Tp7.Presentacion.exe.config
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\Pav.Tp7.Presentacion.exe
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\Pav.Tp7.Presentacion.pdb
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\EntityFramework.dll
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\MiTienda.Dominio.Entidades.dll
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\MiTienda.Ingraestructura.dll
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\MiTienda.Ingraestructura.pdb
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\MiTienda.Ingraestructura.dll.config
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\MiTienda.Dominio.Entidades.pdb
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\MiTienda.Dominio.Entidades.dll.config
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\EntityFramework.xml
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.AssemblyReference.cache
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.Properties.Resources.resources
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Vistas.VistaListaProductos.resources
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Vistas.VistaPrincipal.resources
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Vistas.VistaProducto.resources
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.GenerateResource.cache
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.CoreCompileInputs.cache
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.csproj.CopyComplete
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.exe
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.pdb
+D:\UTN\Ingenieria de Software\2021\TPs\TP1\MiTienda\Pav.Tp6\obj\Debug\Pav.Tp7.Presentacion.Vistas.LogIn.resources
